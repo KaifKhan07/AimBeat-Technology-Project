@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Aim Beat Technology Pvt. Ltd.
 React JS E-commerce Website with Responsive Design
 
@@ -18,7 +17,7 @@ Reusable Components: Modular design with reusable components for scalability.
 
 # Tech Stack - 
 
-Frontend: React JS, TailwindCSS HTML5, CSS3, JavaScript
+Frontend: React JS, TailwindCSS, HTML5, CSS3, JavaScript
 Styling: Responsive layout using CSS Flexbox, Grid, Tailwind, and media queries.
 Data Management: Dynamic data passed via props and state.
 
@@ -52,7 +51,4 @@ Developed by [Kaif Khan] as part of a project for Aim Beat Technology Pvt. Ltd.
 
 # License -
 This project is licensed under the MIT License.
-=======
-# AimBeat-Technology-Project
-Project on React JS with Responsive design (Ecommerce Based)
->>>>>>> ef8deaf1c59bf3493652af671ecbbac1e6a5a7f5
+
