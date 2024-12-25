@@ -1,0 +1,108 @@
+{
+    "Products": [
+        {
+            "_id": "1",
+            "image": "t-shirt-1.png",
+            "name": "Snitch",
+            "description": "Men Polo Collar Pockets Slim Fit T-shirt",
+            "price": "$110.00",
+            "category": "Men"
+        },
+        {
+            "_id": "2",
+            "image": "t-shirt-2.png",
+            "name": "Manlino",
+            "description": "Unisex Printed Drop-Shoulder Sleeves Raw Edge T-shirt",
+            "price": "$108.00",
+            "category": "Men"
+        },
+        {
+            "_id": "3",
+            "image": "jacket-3.png",
+            "name": "Campus Sutra",
+            "description": "Windcheater Jacket",
+            "price": "$102.00",
+            "category": "Men"
+        },
+        {
+            "_id": "4",
+            "image": "women-1.png",
+            "name": "Stylish Threads",
+            "description": "Elegant Women's Blouse with Floral Patterns",
+            "price": "$98.00",
+            "category": "Women"
+        },
+        {
+            "_id": "5",
+            "image": "women-2.png",
+            "name": "Chic Appeal",
+            "description": "Comfortable and Trendy Jacket for Women",
+            "price": "$115.00",
+            "category": "Women"
+        },
+        {
+            "_id": "6",
+            "image": "kids-1.png",
+            "name": "Tiny Totes",
+            "description": "Adorable Backpack for Boys and Girls",
+            "price": "$45.00",
+            "category": "Kids"
+        },
+        {
+            "_id": "7",
+            "image": "kids-2.png",
+            "name": "Adventure Pack",
+            "description": "Durable and Spacious Kids Backpack",
+            "price": "$50.00",
+            "category": "Kids"
+        },
+        {
+            "_id": "8",
+            "image": "shoes-1.png",
+            "name": "Sprint Kicks",
+            "description": "High-performance Athletic Shoes",
+            "price": "$85.00",
+            "category": "Shoes"
+        },
+        {
+            "_id": "9",
+            "image": "shoes-2.png",
+            "name": "Classic Sneakers",
+            "description": "Timeless Design for Everyday Wear",
+            "price": "$90.00",
+            "category": "Shoes"
+        },
+        {
+            "_id": "10",
+            "image": "bags-1.png",
+            "name": "Urban Carry",
+            "description": "Stylish Backpack for Daily Use",
+            "price": "$65.00",
+            "category": "Bag"
+        },
+        {
+            "_id": "11",
+            "image": "bags-2.png",
+            "name": "Traveler's Delight",
+            "description": "Spacious and Trendy Travel Bag",
+            "price": "$72.00",
+            "category": "Bag"
+        },
+        {
+            "_id": "12",
+            "image": "watch-1.png",
+            "name": "Modern Chrono",
+            "description": "Sleek and Stylish Analog Watch",
+            "price": "$150.00",
+            "category": "Watch"
+        },
+        {
+            "_id": "13",
+            "image": "watch-2.png",
+            "name": "Luxury Time",
+            "description": "Premium Watch with Leather Strap",
+            "price": "$180.00",
+            "category": "Watch"
+        }
+    ]
+}
