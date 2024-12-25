@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Aim Beat Technology Pvt. Ltd.
 React JS E-commerce Website with Responsive Design
 
@@ -51,3 +52,7 @@ Developed by [Kaif Khan] as part of a project for Aim Beat Technology Pvt. Ltd.
 
 # License -
 This project is licensed under the MIT License.
+=======
+# AimBeat-Technology-Project
+Project on React JS with Responsive design (Ecommerce Based)
+>>>>>>> ef8deaf1c59bf3493652af671ecbbac1e6a5a7f5
