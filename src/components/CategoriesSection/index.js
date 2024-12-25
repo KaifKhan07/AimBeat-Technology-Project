@@ -39,7 +39,7 @@ const Categories = ({ selectedCategories }) => {
               <option value="low-to-high">Sort by: Low to High</option>
               <option value="high-to-low">Sort by: High to Low</option>
             </select>
-            <button className="bg-black text-white px-10 flex items-center gap-2">
+            <button className="bg-black text-white px-5 sm:px-10 flex items-center gap-2">
               <FaFilter />
               Filter
             </button>

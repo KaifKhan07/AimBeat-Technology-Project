@@ -24,18 +24,18 @@ const Header = () => {
   return (
     <div className="Header pt-4 px-6 sm:px-12 lg:px-20">
       <div className="Header-section-1 flex justify-between border-b-2 pb-4">
-        <div className="contact-us flex space-x-4">
-          <div className="facebook flex items-center space-x-2 border-r-2 pr-4">
+        <div className="contact-us flex space-x-0 sm:space-x-2">
+          <div className="facebook flex items-center space-x-0 pr-2 sm:space-x-2 border-r-2 sm:pr-4">
             <div className="facebook-icon h-5 w-5">
               <img src={facebook} alt="Facebook Icon" className="h-full w-full" />
             </div>
-            <div className="text-xs sm:text-base">7500k Followers</div>
+            <div className="text-[10px] sm:text-[13px] sm:text-base">7500k Followers</div>
           </div>
-          <div className="telephone-number flex items-center space-x-2 pl-4">
+          <div className="telephone-number flex items-center space-x-0 sm:space-x-2 pl-4">
             <div className="tele-no-icon h-5 w-5">
               <img src={telephoneNumber} alt="Phone Icon" className="h-full w-full" />
             </div>
-            <div className="text-xs sm:text-base">+[402] 763 283 46</div>
+            <div className="text-[10px] sm:text-[13px] sm:text-base">+[402] 763 283 46</div>
           </div>
         </div>
 
