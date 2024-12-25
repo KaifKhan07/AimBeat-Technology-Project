@@ -25,7 +25,7 @@ Data Management: Dynamic data passed via props and state.
 # Installation Guide - 
 
 Clone the repository:
-git clone https://github.com/KaifKhan07/AimBeat-Technology-.git
+git clone https://github.com/KaifKhan07/AimBeat-Technology-Project.git
 
 Navigate to the project directory:
 cd my-app
